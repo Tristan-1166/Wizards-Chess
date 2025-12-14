@@ -1,15 +1,16 @@
-#!date = 最后更新时间 2025-12-15 04:56:24
+#!date = 最后更新时间 2025-12-15 05:25:43
 # 数据合并统计：
-# 源数量：1，总数：117452
-# - 源[0]: 新增域名 117452，DNS 0，跳过 0
+# 源数量：2，总数：117476
+# - 源[0]: 新增域名 76，DNS 76，跳过 0
+# - 源[1]: 新增域名 117400，DNS 0，跳过 52
 
 # DNS分配统计：
-# 223.5.5.5：113106 条
-# system：4344 条
-# 119.29.29.29：2 条
+# 223.5.5.5：113113 条
+# system：4357 条
+# 119.29.29.29：6 条
 
 #!name=Dns Domain
-#!desc=最后更新时间 2025-12-15 04:56:24
+#!desc=最后更新时间 2025-12-15 05:25:43
 
 [Host]
 *.astron.ac = server:223.5.5.5
@@ -2411,6 +2412,13 @@ rtvcdn.com.au = server:223.5.5.5
 *.nx.cm = server:223.5.5.5
 *.vs.cm = server:223.5.5.5
 *.cn = server:223.5.5.5
+*.10010.cn = server:system
+*.bilivideo.cn = server:system
+*.sina.com.cn = server:223.5.5.5
+*.gov.cn = server:system
+*.gtimg.cn = server:system
+*.sinajs.cn = server:223.5.5.5
+*.weibo.cn = server:223.5.5.5
 *.123av.co = server:223.5.5.5
 *.13800100.co = server:223.5.5.5
 *.13s.co = server:223.5.5.5
@@ -11806,6 +11814,7 @@ admob-cn.com = server:223.5.5.5
 *.alicache.com = server:223.5.5.5
 *.alicall.com = server:223.5.5.5
 *.alicdm.com = server:223.5.5.5
+*.alicdn.com = server:system
 *.alicloud.com = server:223.5.5.5
 *.alicloudapi.com = server:223.5.5.5
 *.alicloudapi-inner.com = server:223.5.5.5
@@ -11856,6 +11865,7 @@ admob-cn.com = server:223.5.5.5
 *.alionexpo.com = server:223.5.5.5
 *.alipan.com = server:223.5.5.5
 *.alipansou.com = server:223.5.5.5
+*.alipay.com = server:system
 *.alipcsec.com = server:223.5.5.5
 *.alipearlhair.com = server:223.5.5.5
 *.aliplay.com = server:223.5.5.5
@@ -11897,6 +11907,8 @@ admob-cn.com = server:223.5.5.5
 *.aliyiyao.com = server:223.5.5.5
 *.aliyizhan.com = server:223.5.5.5
 *.aliypc.com = server:223.5.5.5
+*.aliyun.com = server:system
+*.aliyundrive.com = server:system
 *.alizhaopin.com = server:223.5.5.5
 *.alizhizhu.com = server:223.5.5.5
 *.alizila.com = server:223.5.5.5
@@ -13654,6 +13666,7 @@ app-measurement-cn.com = server:223.5.5.5
 *.baideye.com = server:223.5.5.5
 *.baidiapp.com = server:223.5.5.5
 *.baidinet.com = server:223.5.5.5
+*.baidu.com = server:223.5.5.5
 *.baieryk.com = server:223.5.5.5
 *.baifae.com = server:223.5.5.5
 *.baifangdianqi.com = server:223.5.5.5
@@ -15318,6 +15331,7 @@ app-measurement-cn.com = server:223.5.5.5
 *.bilfinance.com = server:223.5.5.5
 *.biliapi.com = server:system
 *.bilibil.com = server:223.5.5.5
+*.bilibili.com = server:system
 *.bilicdn1.com = server:223.5.5.5
 *.bilicdn2.com = server:223.5.5.5
 *.bilicdn3.com = server:223.5.5.5
@@ -34091,6 +34105,7 @@ zzq12345.gearhostpreview.com = server:223.5.5.5
 *.geesic.com = server:223.5.5.5
 *.geespace.com = server:223.5.5.5
 *.geetest.com = server:system
+*.static.geetest.com = server:system
 *.geevisit.com = server:223.5.5.5
 *.geewaza.com = server:223.5.5.5
 *.geexek.com = server:223.5.5.5
@@ -47459,6 +47474,8 @@ sms.imagetasks.com = server:223.5.5.5
 *.iqingyi.com = server:223.5.5.5
 *.iqinshuo.com = server:223.5.5.5
 *.iqinzhou.com = server:223.5.5.5
+*.iqiyi.com = server:119.29.29.29
+*.iqiyipic.com = server:119.29.29.29
 *.iqmie.com = server:system
 *.iqnew.com = server:223.5.5.5
 *.iqoo.com = server:223.5.5.5
@@ -68562,6 +68579,8 @@ live.qinyangtv.com = server:223.5.5.5
 *.qiyeweixin.com = server:system
 *.qiyexxw.com = server:223.5.5.5
 *.qiyeyougou.com = server:223.5.5.5
+*.qiyi.com = server:119.29.29.29
+*.qiyipic.com = server:119.29.29.29
 *.qiyoubangbang.com = server:223.5.5.5
 *.qiyouji.com = server:223.5.5.5
 *.qiyoujiage.com = server:223.5.5.5
@@ -79584,6 +79603,7 @@ www.szmgiptv.com = server:223.5.5.5
 *.taoad.com = server:223.5.5.5
 *.taoart.com = server:223.5.5.5
 *.taoban.com = server:223.5.5.5
+*.taobao.com = server:system
 *.taobeihai.com = server:223.5.5.5
 *.taobiaozu.com = server:223.5.5.5
 *.taobizhong.com = server:223.5.5.5
@@ -85879,6 +85899,9 @@ necgokr2-724.acs.wecandeo.com = server:223.5.5.5
 *.weibangong.com = server:223.5.5.5
 *.weibanzhushou.com = server:223.5.5.5
 *.weibilamp.com = server:223.5.5.5
+*.weibo.com = server:223.5.5.5
+weibo.com = server:223.5.5.5
+*.weibocdn.com = server:223.5.5.5
 *.weibu.com = server:223.5.5.5
 *.weicaifu.com = server:223.5.5.5
 *.weicewang.com = server:223.5.5.5
@@ -95900,6 +95923,7 @@ redirector.c.youtubeeducation.com = server:223.5.5.5
 *.yuansfer.com = server:223.5.5.5
 *.yuanshanbx.com = server:223.5.5.5
 *.yuanshen.com = server:system
+*-os.yuanshen.com = server:system
 *.yuanshi-sec.com = server:223.5.5.5
 *.yuanshichang.com = server:223.5.5.5
 *.yuanshuflow.com = server:223.5.5.5
@@ -115831,6 +115855,7 @@ a.xttv.top = server:223.5.5.5
 *.aniu.tv = server:223.5.5.5
 *.aniworld.tv = server:223.5.5.5
 *.b23.tv = server:system
+b23.tv = server:system
 *.baokan.tv = server:223.5.5.5
 *.baomei.tv = server:223.5.5.5
 *.beeshow.tv = server:223.5.5.5

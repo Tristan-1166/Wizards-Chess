@@ -1,12 +1,13 @@
-#!date = 最后更新时间 2025-12-15 04:56:24
+#!date = 最后更新时间 2025-12-15 05:25:43
 # 数据合并统计：
-# 源数量：1，总数：117452
-# - 源[0]: 新增域名 117452，DNS 0，跳过 0
+# 源数量：2，总数：117476
+# - 源[0]: 新增域名 76，DNS 76，跳过 0
+# - 源[1]: 新增域名 117400，DNS 0，跳过 52
 
 # DNS分配统计：
-# 223.5.5.5：113106 条
-# system：4344 条
-# 119.29.29.29：2 条
+# 223.5.5.5：113113 条
+# system：4357 条
+# 119.29.29.29：6 条
 
 astron.ac
 bog.ac
@@ -2279,6 +2280,9 @@ jpg.cm
 nx.cm
 vs.cm
 cn
+sina.com.cn
+sinajs.cn
+weibo.cn
 123av.co
 13800100.co
 13s.co
@@ -13229,6 +13233,7 @@ baidevalve.com
 baideye.com
 baidiapp.com
 baidinet.com
+baidu.com
 baieryk.com
 baifae.com
 baifangdianqi.com
@@ -82604,6 +82609,8 @@ weibanan.com
 weibangong.com
 weibanzhushou.com
 weibilamp.com
+weibo.com
+weibocdn.com
 weibu.com
 weicaifu.com
 weicewang.com

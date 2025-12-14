@@ -1,12 +1,13 @@
-#!date = 最后更新时间 2025-12-15 04:56:24
+#!date = 最后更新时间 2025-12-15 05:25:43
 # 数据合并统计：
-# 源数量：1，总数：117452
-# - 源[0]: 新增域名 117452，DNS 0，跳过 0
+# 源数量：2，总数：117476
+# - 源[0]: 新增域名 76，DNS 76，跳过 0
+# - 源[1]: 新增域名 117400，DNS 0，跳过 52
 
 # DNS分配统计：
-# 223.5.5.5：113106 条
-# system：4344 条
-# 119.29.29.29：2 条
+# 223.5.5.5：113113 条
+# system：4357 条
+# 119.29.29.29：6 条
 
 olami.ai
 xming.ai
@@ -136,6 +137,10 @@ jdiy.club
 tencentwemeet.club
 yomiko.club
 163.cm
+10010.cn
+bilivideo.cn
+gov.cn
+gtimg.cn
 amiao.co
 itoutiao.co
 jd.co
@@ -382,7 +387,11 @@ alibabatechqa.com
 alibabaued.com
 alibabausercontent.com
 alibabawood.com
+alicdn.com
+alipay.com
 alixiaomi.com
+aliyun.com
+aliyundrive.com
 alminecn.com
 alnanaluminium.com
 aluminiumchina.com
@@ -456,6 +465,7 @@ bianminwang.com
 biaomi.com
 bidemi.com
 biliapi.com
+bilibili.com
 bilicomic.com
 bilicomics.com
 bilivideo.com
@@ -952,6 +962,7 @@ gecimi.com
 gedoumi.com
 geelyminiprogram.com
 geetest.com
+static.geetest.com
 geimian.com
 gemini-galaxy.com
 genmiao.com
@@ -2928,6 +2939,7 @@ taljdns.com
 tamigos.com
 tamigroup.com
 tangmingint.com
+taobao.com
 taoci163.com
 taoming.com
 taomingshi.com
@@ -3569,6 +3581,7 @@ ysmine.com
 ytmingju.com
 yu163.com
 yuanshen.com
+-os.yuanshen.com
 yudiaomingjia.com
 yuemicn.com
 yugou1688.com
