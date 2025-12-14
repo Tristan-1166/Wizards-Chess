@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/sy
 https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/tencent_dns.txt
 ```
 
-## 更新频率
+### 更新频率
 
 每天一次，UTC+8 06:00。
 
