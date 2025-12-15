@@ -1,0 +1,10 @@
+# 最后更新时间 2025-12-16 03:22:08
+# DNS：https://doh.pub/dns-query
+# 数量：6
+
+DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
