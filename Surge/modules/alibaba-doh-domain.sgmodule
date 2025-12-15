@@ -1,0 +1,29 @@
+#!name=Dns Domain - https://dns.alidns.com/dns-query
+#!desc=最后更新时间 2025-12-16 06:48:39
+# DNS：https://dns.alidns.com/dns-query
+# 数量：23
+
+[Host]
+*.178.com = server:https://dns.alidns.com/dns-query
+*.baidu.com = server:https://dns.alidns.com/dns-query
+*.bcebos.com = server:https://dns.alidns.com/dns-query
+*.bdimg.com = server:https://dns.alidns.com/dns-query
+*.bdstatic.com = server:https://dns.alidns.com/dns-query
+*.caiyunapp.com = server:https://dns.alidns.com/dns-query
+*.cn = server:https://dns.alidns.com/dns-query
+*.csdn.com = server:https://dns.alidns.com/dns-query
+*.ithome.com = server:https://dns.alidns.com/dns-query
+*.ngacn.cc = server:https://dns.alidns.com/dns-query
+*.sina.com.cn = server:https://dns.alidns.com/dns-query
+*.sinaimg.com = server:https://dns.alidns.com/dns-query
+*.sinajs.cn = server:https://dns.alidns.com/dns-query
+*.sohu.com = server:https://dns.alidns.com/dns-query
+*.sspai.com = server:https://dns.alidns.com/dns-query
+*.weibo.cn = server:https://dns.alidns.com/dns-query
+*.weibo.com = server:https://dns.alidns.com/dns-query
+*.weibocdn.com = server:https://dns.alidns.com/dns-query
+*.ximalaya.com = server:https://dns.alidns.com/dns-query
+*.xmcdn.com = server:https://dns.alidns.com/dns-query
+*.zhihu.com = server:https://dns.alidns.com/dns-query
+*.zhimg.com = server:https://dns.alidns.com/dns-query
+weibo.com = server:https://dns.alidns.com/dns-query

@@ -1,0 +1,54 @@
+#!name=Dns Domain - system
+#!desc=最后更新时间 2025-12-16 06:48:39
+# DNS：system
+# 数量：48
+
+[Host]
+*-os.yuanshen.com = server:system
+*.10010.cn = server:system
+*.10010.com = server:system
+*.126.com = server:system
+*.126.net = server:system
+*.127.net = server:system
+*.163.com = server:system
+*.360buyimg.com = server:system
+*.95516.com = server:system
+*.abchina.com = server:system
+*.alicdn.com = server:system
+*.alipay.com = server:system
+*.aliyun.com = server:system
+*.aliyundrive.com = server:system
+*.b23.tv = server:system
+*.bh3.com = server:system
+*.biliapi.net = server:system
+*.bilibili.com = server:system
+*.bilivideo.cn = server:system
+*.bilivideo.com = server:system
+*.douban.com = server:system
+*.doubanio.com = server:system
+*.douc.cc = server:system
+*.gcloudsdk.com = server:system
+*.gov.cn = server:system
+*.gtimg.cn = server:system
+*.hdslb.com = server:system
+*.idqqimg.com = server:system
+*.jd.com = server:system
+*.jd.hk = server:system
+*.jdcloud.com = server:system
+*.mi.com = server:system
+*.miaopai.com = server:system
+*.mihoyo.com = server:system
+*.miwifi.com = server:system
+*.netease.com = server:system
+*.qq.com = server:system
+*.static.geetest.com = server:system
+*.taobao.com = server:system
+*.tencent.com = server:system
+*.tenpay.com = server:system
+*.tmall.com = server:system
+*.wechat.com = server:system
+*.weixin.com = server:system
+*.weiyun.com = server:system
+*.xiaomi.com = server:system
+*.yuanshen.com = server:system
+b23.tv = server:system
