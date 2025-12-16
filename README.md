@@ -16,12 +16,13 @@ https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/te
 
 ### 数据来源
 
-本项目的数据来源于以下公开数据源：
+本项目的数据源来源于以下仓库：
 
-- blackmatrix7/ios_rule_script
-- Elysian-Realme/FuGfConfig
+- https://github.com/blackmatrix7/ios_rule_script
+- https://github.com/SukkaLab/ruleset.skk.moe
+- https://github.com/Elysian-Realme/FuGfConfig
 
-感谢以上项目的维护者提供的优质数据。
+感谢以上项目的作者们提供的优质数据。
 
 ### 免责声明
 
@@ -33,4 +34,4 @@ https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/te
 
 ### 许可证
 
-本项目采用 [MIT License](LICENSE) 开源协议。
+本项目采用 [AGPL-3.0](LICENSE) 开源协议。
