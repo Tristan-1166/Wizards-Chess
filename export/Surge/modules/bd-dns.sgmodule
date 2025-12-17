@@ -1,36 +1,21 @@
 #!name=DnsMap - 180.76.76.76
-#!desc=最后更新时间 2025-12-17 12:20:04
+#!desc=最后更新时间 2025-12-17 15:03:15
 # DNS：180.76.76.76
 # 数量：15
 
 [Host]
-*.yunjiasu-cdn.net = server:180.76.76.76
-yunjiasu-cdn.net = server:180.76.76.76
-*.zuoyebang.com = server:180.76.76.76
-zuoyebang.com = server:180.76.76.76
-*.xiaodutv.com = server:180.76.76.76
-xiaodutv.com = server:180.76.76.76
-*.jomodns.com = server:180.76.76.76
-jomodns.com = server:180.76.76.76
-*.bcelive.com = server:180.76.76.76
-bcelive.com = server:180.76.76.76
-*.antpcdn.com = server:180.76.76.76
-antpcdn.com = server:180.76.76.76
-*.zybang.com = server:180.76.76.76
-zybang.com = server:180.76.76.76
-*.shifen.com = server:180.76.76.76
-shifen.com = server:180.76.76.76
-*.jomoxc.com = server:180.76.76.76
-jomoxc.com = server:180.76.76.76
-*.hao123.com = server:180.76.76.76
-hao123.com = server:180.76.76.76
-*.bdydns.com = server:180.76.76.76
-bdydns.com = server:180.76.76.76
-*.tieba.com = server:180.76.76.76
-tieba.com = server:180.76.76.76
-*.duapp.com = server:180.76.76.76
-duapp.com = server:180.76.76.76
-*.91.com = server:180.76.76.76
-91.com = server:180.76.76.76
-*.dwz.cn = server:180.76.76.76
-dwz.cn = server:180.76.76.76
+DOMAIN-SUFFIX,yunjiasu-cdn.net = server:180.76.76.76
+DOMAIN-SUFFIX,zuoyebang.com = server:180.76.76.76
+DOMAIN-SUFFIX,xiaodutv.com = server:180.76.76.76
+DOMAIN-SUFFIX,jomodns.com = server:180.76.76.76
+DOMAIN-SUFFIX,bcelive.com = server:180.76.76.76
+DOMAIN-SUFFIX,antpcdn.com = server:180.76.76.76
+DOMAIN-SUFFIX,zybang.com = server:180.76.76.76
+DOMAIN-SUFFIX,shifen.com = server:180.76.76.76
+DOMAIN-SUFFIX,jomoxc.com = server:180.76.76.76
+DOMAIN-SUFFIX,hao123.com = server:180.76.76.76
+DOMAIN-SUFFIX,bdydns.com = server:180.76.76.76
+DOMAIN-SUFFIX,tieba.com = server:180.76.76.76
+DOMAIN-SUFFIX,duapp.com = server:180.76.76.76
+DOMAIN-SUFFIX,91.com = server:180.76.76.76
+DOMAIN-SUFFIX,dwz.cn = server:180.76.76.76
