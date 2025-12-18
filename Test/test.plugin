@@ -1,0 +1,27 @@
+#!name=DNSMap
+#!desc=为指定域名列表配置自定义DNS服务器,支持DoH/DoQ/DoH3
+#!author=你的名字
+#!homepage=你的GitHub项目地址
+#!icon=https://你的图标地址(可选)
+#!date=2025-12-18
+
+[Argument]
+# dns_server = input,"system",tag=DNS服务器,desc=请输入DNS服务器地址。\n支持格式:\n- 普通DNS: 8.8.8.8\n- DoH: https://dns.google/dns-query\n- DoH3: h3://dns.google/dns-query\n- DoQ: quic://dns.google\n- system(使用系统DNS)
+dns_server = input,"system",tag=DNS服务器,desc=请输入DNS服务器地址。\n示例: https://1.1.1.1/dns-query
+
+[Host]
+# 米哈游相关域名
+*.bh3.com = server:{dns_server}
+*.mihoyo.com = server:{dns_server}
+*.yuanshen.com = server:{dns_server}
+*-os.yuanshen.com = server:{dns_server}
+
+# 腾讯相关域名
+*.qq.com = server:{dns_server}
+*.tencent.com = server:{dns_server}
+*.weixin.com = server:{dns_server}
+*.wechat.com = server:{dns_server}
+*.tenpay.com = server:{dns_server}
+
+
+示例: https://1.1.1.1/dns-query
