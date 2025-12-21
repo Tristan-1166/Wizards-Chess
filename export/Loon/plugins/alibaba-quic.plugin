@@ -1,6 +1,6 @@
-#!date = 最后更新时间 2025-12-21 06:10:08
+#!date = 最后更新时间 2025-12-22 06:10:57
 # DNS：quic://dns.alidns.com:853
-# 数量：214
+# 数量：212
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -234,7 +234,6 @@ sm.cn = server:quic://dns.alidns.com:853
 *.cps1688.com = server:quic://dns.alidns.com:853
 *.daliapp.net = server:quic://dns.alidns.com:853
 *.dgdq1688.com = server:quic://dns.alidns.com:853
-*.dgzz1688.com = server:quic://dns.alidns.com:853
 *.dianremo1688.com = server:quic://dns.alidns.com:853
 *.dxdl1688.com = server:quic://dns.alidns.com:853
 *.eltmall.com = server:quic://dns.alidns.com:853
@@ -270,7 +269,6 @@ sm.cn = server:quic://dns.alidns.com:853
 *.meyum1688.com = server:quic://dns.alidns.com:853
 *.nan1688.com = server:quic://dns.alidns.com:853
 *.nice1688.com = server:quic://dns.alidns.com:853
-*.nks1688.com = server:quic://dns.alidns.com:853
 *.nncg1688.com = server:quic://dns.alidns.com:853
 *.nongji1688.com = server:quic://dns.alidns.com:853
 *.pepsitmall.com = server:quic://dns.alidns.com:853
