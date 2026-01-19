@@ -1,4 +1,4 @@
-#!date = 2026-01-19 06:11:14
+#!date = 2026-01-20 06:12:36
 # DNS：https://dns.alidns.com/dns-query
 # 数量：184
 
@@ -102,7 +102,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.huizhihuyu.com = server:https://dns.alidns.com/dns-query
 *.imgsina.com = server:https://dns.alidns.com/dns-query
 *.imgsohu.com = server:https://dns.alidns.com/dns-query
-*.ithome.net = server:https://dns.alidns.com/dns-query
 *.izhihuicheng.net = server:https://dns.alidns.com/dns-query
 *.izhihuo.com = server:https://dns.alidns.com/dns-query
 *.js178.com = server:https://dns.alidns.com/dns-query
@@ -140,14 +139,10 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.sinawf.com = server:https://dns.alidns.com/dns-query
 *.sohu = server:https://dns.alidns.com/dns-query
 *.sohu.net = server:https://dns.alidns.com/dns-query
-*.sohuapps.com = server:https://dns.alidns.com/dns-query
 *.sohuhistory.com = server:https://dns.alidns.com/dns-query
 *.sohuiw.com = server:https://dns.alidns.com/dns-query
 *.sohunjug.com = server:https://dns.alidns.com/dns-query
 *.sohuns.com = server:https://dns.alidns.com/dns-query
-*.sohuora.com = server:https://dns.alidns.com/dns-query
-*.sohurdc.com = server:https://dns.alidns.com/dns-query
-*.sohusce.com = server:https://dns.alidns.com/dns-query
 *.sohuu.com = server:https://dns.alidns.com/dns-query
 *.sspai.me = server:https://dns.alidns.com/dns-query
 *.sxsohu.com = server:https://dns.alidns.com/dns-query
@@ -194,6 +189,11 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihuoseo.com = server:https://dns.alidns.com/dns-query
 *.zhihur.com = server:https://dns.alidns.com/dns-query
 *.zhizhihu.com = server:https://dns.alidns.com/dns-query
+*.ithome.net = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.net = server:https://dns.alidns.com/dns-query
+*.sohuapps.com = server:https://dns.alidns.com/dns-query
 *.sohumail.com = server:https://dns.alidns.com/dns-query
+*.sohuora.com = server:https://dns.alidns.com/dns-query
+*.sohurdc.com = server:https://dns.alidns.com/dns-query
+*.sohusce.com = server:https://dns.alidns.com/dns-query
