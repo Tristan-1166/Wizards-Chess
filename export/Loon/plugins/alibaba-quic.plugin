@@ -1,6 +1,6 @@
-#!date = 2026-02-06 06:16:46
+#!date = 2026-02-07 06:12:19
 # DNS：quic://dns.alidns.com:853
-# 数量：211
+# 数量：212
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -29,6 +29,8 @@ cainiaoyizhan.com = server:quic://dns.alidns.com:853
 alipayobjects.com = server:quic://dns.alidns.com:853
 *.taopiaopiao.com = server:quic://dns.alidns.com:853
 taopiaopiao.com = server:quic://dns.alidns.com:853
+*.geovisearth.com = server:quic://dns.alidns.com:853
+geovisearth.com = server:quic://dns.alidns.com:853
 *.aliyundrive.com = server:quic://dns.alidns.com:853
 aliyundrive.com = server:quic://dns.alidns.com:853
 *.alicloudccp.com = server:quic://dns.alidns.com:853
