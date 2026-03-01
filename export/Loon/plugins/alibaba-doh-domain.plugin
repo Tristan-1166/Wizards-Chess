@@ -1,6 +1,6 @@
-#!date = 2026-03-01 06:13:01
+#!date = 2026-03-02 06:13:39
 # DNS：https://dns.alidns.com/dns-query
-# 数量：191
+# 数量：189
 
 [Host]
 *.weibo.com = server:https://dns.alidns.com/dns-query
@@ -47,16 +47,16 @@ baidu.com = server:https://dns.alidns.com/dns-query
 *.baidu.cn = server:https://dns.alidns.com/dns-query
 baidu.cn = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
+*.178.net = server:https://dns.alidns.com/dns-query
 *.ecombdimg.com = server:https://dns.alidns.com/dns-query
 *.ecombdstatic.com = server:https://dns.alidns.com/dns-query
-*.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
+*.178linux.com = server:https://dns.alidns.com/dns-query
 *.zhihuishu.com = server:https://dns.alidns.com/dns-query
 *.055178.com = server:https://dns.alidns.com/dns-query
 *.0917888.com = server:https://dns.alidns.com/dns-query
 *.13726936178.com = server:https://dns.alidns.com/dns-query
 *.17178.com = server:https://dns.alidns.com/dns-query
-*.178.net = server:https://dns.alidns.com/dns-query
 *.178198.com = server:https://dns.alidns.com/dns-query
 *.178448.com = server:https://dns.alidns.com/dns-query
 *.1787.ink = server:https://dns.alidns.com/dns-query
@@ -109,7 +109,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.mczhihui.com = server:https://dns.alidns.com/dns-query
 *.modeng178.com = server:https://dns.alidns.com/dns-query
 *.mysinamail.com = server:https://dns.alidns.com/dns-query
-*.ngacn.com = server:https://dns.alidns.com/dns-query
 *.nm178.net = server:https://dns.alidns.com/dns-query
 *.p2p178.com = server:https://dns.alidns.com/dns-query
 *.pengzhihui.xyz = server:https://dns.alidns.com/dns-query
@@ -134,7 +133,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.sohuns.com = server:https://dns.alidns.com/dns-query
 *.sohuu.com = server:https://dns.alidns.com/dns-query
 *.sspai.me = server:https://dns.alidns.com/dns-query
-*.sxsohu.com = server:https://dns.alidns.com/dns-query
 *.tanbao178.com = server:https://dns.alidns.com/dns-query
 *.uu178.com = server:https://dns.alidns.com/dns-query
 *.wenzhihuai.com = server:https://dns.alidns.com/dns-query
