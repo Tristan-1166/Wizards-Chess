@@ -1,4 +1,4 @@
-#!date = 2026-03-05 06:21:06
+#!date = 2026-03-06 06:20:18
 # DNS：https://dns.alidns.com/dns-query
 # 数量：189
 
@@ -49,8 +49,8 @@ baidu.cn = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.ecombdimg.com = server:https://dns.alidns.com/dns-query
 *.ecombdstatic.com = server:https://dns.alidns.com/dns-query
-*.csdn.net = server:https://dns.alidns.com/dns-query
 *.178linux.com = server:https://dns.alidns.com/dns-query
+*.csdn.net = server:https://dns.alidns.com/dns-query
 *.sina.com = server:https://dns.alidns.com/dns-query
 *.sina.net = server:https://dns.alidns.com/dns-query
 *.sinaapp.com = server:https://dns.alidns.com/dns-query
@@ -160,10 +160,7 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.vipappsina.com = server:https://dns.alidns.com/dns-query
 *.vipsinaapp.com = server:https://dns.alidns.com/dns-query
 *.wenzhihuai.com = server:https://dns.alidns.com/dns-query
-*.ximalaya.fm = server:https://dns.alidns.com/dns-query
 *.ximalaya.men = server:https://dns.alidns.com/dns-query
-*.ximalaya.tv = server:https://dns.alidns.com/dns-query
-*.ximalayadata.com = server:https://dns.alidns.com/dns-query
 *.ximalayaos.com = server:https://dns.alidns.com/dns-query
 *.xsina.net = server:https://dns.alidns.com/dns-query
 *.xunbao178.com = server:https://dns.alidns.com/dns-query
@@ -198,6 +195,9 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihuoseo.com = server:https://dns.alidns.com/dns-query
 *.zhihur.com = server:https://dns.alidns.com/dns-query
 *.zhizhihu.com = server:https://dns.alidns.com/dns-query
+*.ximalaya.fm = server:https://dns.alidns.com/dns-query
+*.ximalaya.tv = server:https://dns.alidns.com/dns-query
+*.ximalayadata.com = server:https://dns.alidns.com/dns-query
 *.ithome.net = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.net = server:https://dns.alidns.com/dns-query
