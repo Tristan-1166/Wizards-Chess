@@ -1,4 +1,4 @@
-#!date = 2026-03-11 06:17:11
+#!date = 2026-03-12 06:18:05
 # DNS：https://dns.alidns.com/dns-query
 # 数量：189
 
@@ -155,7 +155,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihua-tech.com = server:https://dns.alidns.com/dns-query
 *.zhihuangjin.com = server:https://dns.alidns.com/dns-query
 *.zhihudsp.com = server:https://dns.alidns.com/dns-query
-*.zhihuichuangyanshi.com = server:https://dns.alidns.com/dns-query
 *.zhihuiep.com = server:https://dns.alidns.com/dns-query
 *.zhihuifangdong.net = server:https://dns.alidns.com/dns-query
 *.zhihuihongze.com = server:https://dns.alidns.com/dns-query
@@ -170,7 +169,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihuiwater.com = server:https://dns.alidns.com/dns-query
 *.zhihuixiadan.com = server:https://dns.alidns.com/dns-query
 *.zhihuixl.com = server:https://dns.alidns.com/dns-query
-*.zhihuixuexipt.com = server:https://dns.alidns.com/dns-query
 *.zhihuiya.com = server:https://dns.alidns.com/dns-query
 *.zhihuiyunbo.com = server:https://dns.alidns.com/dns-query
 *.zhihuizhangyu.com = server:https://dns.alidns.com/dns-query
@@ -202,3 +200,5 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.sohuora.com = server:https://dns.alidns.com/dns-query
 *.sohurdc.com = server:https://dns.alidns.com/dns-query
 *.sohusce.com = server:https://dns.alidns.com/dns-query
+*.zhihuichuangyanshi.com = server:https://dns.alidns.com/dns-query
+*.zhihuixuexipt.com = server:https://dns.alidns.com/dns-query
