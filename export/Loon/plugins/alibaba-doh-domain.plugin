@@ -1,4 +1,4 @@
-#!date = 2026-03-25 06:19:51
+#!date = 2026-03-26 06:24:58
 # DNS：https://dns.alidns.com/dns-query
 # 数量：189
 
@@ -146,14 +146,10 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.sinawf.com = server:https://dns.alidns.com/dns-query
 *.sohu = server:https://dns.alidns.com/dns-query
 *.sohu.net = server:https://dns.alidns.com/dns-query
-*.sohuapps.com = server:https://dns.alidns.com/dns-query
 *.sohuhistory.com = server:https://dns.alidns.com/dns-query
 *.sohuiw.com = server:https://dns.alidns.com/dns-query
 *.sohunjug.com = server:https://dns.alidns.com/dns-query
 *.sohuns.com = server:https://dns.alidns.com/dns-query
-*.sohuora.com = server:https://dns.alidns.com/dns-query
-*.sohurdc.com = server:https://dns.alidns.com/dns-query
-*.sohusce.com = server:https://dns.alidns.com/dns-query
 *.sohuu.com = server:https://dns.alidns.com/dns-query
 *.sspai.me = server:https://dns.alidns.com/dns-query
 *.tanbao178.com = server:https://dns.alidns.com/dns-query
@@ -161,10 +157,7 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.vipappsina.com = server:https://dns.alidns.com/dns-query
 *.vipsinaapp.com = server:https://dns.alidns.com/dns-query
 *.wenzhihuai.com = server:https://dns.alidns.com/dns-query
-*.ximalaya.fm = server:https://dns.alidns.com/dns-query
 *.ximalaya.men = server:https://dns.alidns.com/dns-query
-*.ximalaya.tv = server:https://dns.alidns.com/dns-query
-*.ximalayadata.com = server:https://dns.alidns.com/dns-query
 *.ximalayaos.com = server:https://dns.alidns.com/dns-query
 *.xsina.net = server:https://dns.alidns.com/dns-query
 *.xunbao178.com = server:https://dns.alidns.com/dns-query
@@ -198,7 +191,14 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihuoseo.com = server:https://dns.alidns.com/dns-query
 *.zhihur.com = server:https://dns.alidns.com/dns-query
 *.zhizhihu.com = server:https://dns.alidns.com/dns-query
+*.ximalaya.fm = server:https://dns.alidns.com/dns-query
+*.ximalaya.tv = server:https://dns.alidns.com/dns-query
+*.ximalayadata.com = server:https://dns.alidns.com/dns-query
 *.ithome.net = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.net = server:https://dns.alidns.com/dns-query
+*.sohuapps.com = server:https://dns.alidns.com/dns-query
 *.sohumail.com = server:https://dns.alidns.com/dns-query
+*.sohuora.com = server:https://dns.alidns.com/dns-query
+*.sohurdc.com = server:https://dns.alidns.com/dns-query
+*.sohusce.com = server:https://dns.alidns.com/dns-query
