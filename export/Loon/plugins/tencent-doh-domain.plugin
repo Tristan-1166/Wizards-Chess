@@ -1,6 +1,6 @@
-#!date = 2026-04-08 06:28:00
+#!date = 2026-04-09 06:29:29
 # DNS：https://doh.pub/dns-query
-# 数量：8
+# 数量：7
 
 [Host]
 *.iqiyi.com = server:https://doh.pub/dns-query
@@ -12,4 +12,3 @@
 iqiyipic.com = server:https://doh.pub/dns-query
 *.iqiyi.com = server:https://doh.pub/dns-query
 iqiyi.com = server:https://doh.pub/dns-query
-*.appsimg.com = server:https://doh.pub/dns-query
