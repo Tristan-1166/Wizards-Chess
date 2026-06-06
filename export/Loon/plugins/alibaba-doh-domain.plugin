@@ -1,4 +1,4 @@
-#!date = 2026-06-06 06:57:06
+#!date = 2026-06-07 06:53:57
 # DNS：https://dns.alidns.com/dns-query
 # 数量：187
 
@@ -50,8 +50,13 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.178.net = server:https://dns.alidns.com/dns-query
 *.ecombdimg.com = server:https://dns.alidns.com/dns-query
 *.ecombdstatic.com = server:https://dns.alidns.com/dns-query
-*.csdn.net = server:https://dns.alidns.com/dns-query
 *.178linux.com = server:https://dns.alidns.com/dns-query
+*.csdn.net = server:https://dns.alidns.com/dns-query
+*.sina.com = server:https://dns.alidns.com/dns-query
+*.sina.net = server:https://dns.alidns.com/dns-query
+*.sinaapp.com = server:https://dns.alidns.com/dns-query
+*.sinaedge.com = server:https://dns.alidns.com/dns-query
+*.sinajs.com = server:https://dns.alidns.com/dns-query
 *.sohu-inc.com = server:https://dns.alidns.com/dns-query
 *.sohucs.com = server:https://dns.alidns.com/dns-query
 *.zhihuishu.com = server:https://dns.alidns.com/dns-query
@@ -175,15 +180,10 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.ithome.net = server:https://dns.alidns.com/dns-query
 *.appsina.com = server:https://dns.alidns.com/dns-query
 *.dnssina.com = server:https://dns.alidns.com/dns-query
-*.sina.com = server:https://dns.alidns.com/dns-query
-*.sina.net = server:https://dns.alidns.com/dns-query
-*.sinaapp.com = server:https://dns.alidns.com/dns-query
 *.sinacdn.com = server:https://dns.alidns.com/dns-query
 *.sinacloud.com = server:https://dns.alidns.com/dns-query
 *.sinacloud.net = server:https://dns.alidns.com/dns-query
 *.sinadaxue.com = server:https://dns.alidns.com/dns-query
-*.sinaedge.com = server:https://dns.alidns.com/dns-query
-*.sinajs.com = server:https://dns.alidns.com/dns-query
 *.sinanet.com = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.com = server:https://dns.alidns.com/dns-query
