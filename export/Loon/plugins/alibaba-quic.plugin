@@ -1,6 +1,6 @@
-#!date = 2026-06-19 07:27:27
+#!date = 2026-06-20 06:42:17
 # DNS：quic://dns.alidns.com:853
-# 数量：206
+# 数量：205
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -223,7 +223,6 @@ sm.cn = server:quic://dns.alidns.com:853
 *.alibabafonts.com = server:quic://dns.alidns.com:853
 *.alibabafoundation.com = server:quic://dns.alidns.com:853
 *.alibabaonline.com = server:quic://dns.alidns.com:853
-*.alibabapictures.com = server:quic://dns.alidns.com:853
 *.alibabastars.com = server:quic://dns.alidns.com:853
 *.alibabatech.org = server:quic://dns.alidns.com:853
 *.alibabatechqa.com = server:quic://dns.alidns.com:853
