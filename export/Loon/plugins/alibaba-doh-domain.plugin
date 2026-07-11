@@ -1,6 +1,6 @@
-#!date = 2026-07-11 06:49:08
+#!date = 2026-07-12 06:36:24
 # DNS：https://dns.alidns.com/dns-query
-# 数量：188
+# 数量：190
 
 [Host]
 *.weibo.com = server:https://dns.alidns.com/dns-query
@@ -49,11 +49,6 @@ baiducontent.com = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
-*.sina.com = server:https://dns.alidns.com/dns-query
-*.sina.net = server:https://dns.alidns.com/dns-query
-*.sinaapp.com = server:https://dns.alidns.com/dns-query
-*.sinaedge.com = server:https://dns.alidns.com/dns-query
-*.sinajs.com = server:https://dns.alidns.com/dns-query
 *.sohu-inc.com = server:https://dns.alidns.com/dns-query
 *.sohucs.com = server:https://dns.alidns.com/dns-query
 *.zhihuishu.com = server:https://dns.alidns.com/dns-query
@@ -145,7 +140,9 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.t178.info = server:https://dns.alidns.com/dns-query
 *.tanbao178.com = server:https://dns.alidns.com/dns-query
 *.uu178.com = server:https://dns.alidns.com/dns-query
+*.volcsdns-test.com = server:https://dns.alidns.com/dns-query
 *.volcsdns.com = server:https://dns.alidns.com/dns-query
+*.volcsdns.net = server:https://dns.alidns.com/dns-query
 *.wenzhihuai.com = server:https://dns.alidns.com/dns-query
 *.ximalaya.fm = server:https://dns.alidns.com/dns-query
 *.ximalaya.men = server:https://dns.alidns.com/dns-query
@@ -187,10 +184,15 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhizhihu.com = server:https://dns.alidns.com/dns-query
 *.appsina.com = server:https://dns.alidns.com/dns-query
 *.dnssina.com = server:https://dns.alidns.com/dns-query
+*.sina.com = server:https://dns.alidns.com/dns-query
+*.sina.net = server:https://dns.alidns.com/dns-query
+*.sinaapp.com = server:https://dns.alidns.com/dns-query
 *.sinacdn.com = server:https://dns.alidns.com/dns-query
 *.sinacloud.com = server:https://dns.alidns.com/dns-query
 *.sinacloud.net = server:https://dns.alidns.com/dns-query
 *.sinadaxue.com = server:https://dns.alidns.com/dns-query
+*.sinaedge.com = server:https://dns.alidns.com/dns-query
+*.sinajs.com = server:https://dns.alidns.com/dns-query
 *.sinanet.com = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.com = server:https://dns.alidns.com/dns-query
