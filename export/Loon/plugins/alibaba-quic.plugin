@@ -1,6 +1,6 @@
-#!date = 2026-08-03 06:43:40
+#!date = 2026-08-04 06:50:40
 # DNS：quic://dns.alidns.com:853
-# 数量：206
+# 数量：207
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -263,6 +263,7 @@ ali-safety-video.acfun.cn = server:quic://dns.alidns.com:853
 *.magicnetmall.com = server:quic://dns.alidns.com:853
 *.maine1688.com = server:quic://dns.alidns.com:853
 *.meyum1688.com = server:quic://dns.alidns.com:853
+*.mk1688.shop = server:quic://dns.alidns.com:853
 *.nan1688.com = server:quic://dns.alidns.com:853
 *.nice1688.com = server:quic://dns.alidns.com:853
 *.nncg1688.com = server:quic://dns.alidns.com:853
