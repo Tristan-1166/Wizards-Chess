@@ -1,6 +1,6 @@
-#!date = 2026-08-05 06:51:25
+#!date = 2026-08-06 06:47:24
 # DNS：quic://dns.alidns.com:853
-# 数量：207
+# 数量：208
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -9,6 +9,7 @@
 *.alicdn.com = server:quic://dns.alidns.com:853
 *.aliyun.com = server:quic://dns.alidns.com:853
 *.aliyundrive.com = server:quic://dns.alidns.com:853
+7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe = server:quic://dns.alidns.com:853
 *.sm.cn = server:quic://dns.alidns.com:853
 sm.cn = server:quic://dns.alidns.com:853
 *.tb.cn = server:quic://dns.alidns.com:853
