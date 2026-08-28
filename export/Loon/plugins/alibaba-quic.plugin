@@ -1,6 +1,6 @@
-#!date = 2026-08-27 10:22:48
+#!date = 2026-08-28 13:51:49
 # DNS：quic://dns.alidns.com:853
-# 数量：208
+# 数量：209
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -228,6 +228,7 @@ ali-safety-video.acfun.cn = server:quic://dns.alidns.com:853
 *.alibabatech.org = server:quic://dns.alidns.com:853
 *.alibabatechqa.com = server:quic://dns.alidns.com:853
 *.bei1688.com = server:quic://dns.alidns.com:853
+*.beretmall.com = server:quic://dns.alidns.com:853
 *.bolin1688.com = server:quic://dns.alidns.com:853
 *.bsdt1688.com = server:quic://dns.alidns.com:853
 *.cad1688.com = server:quic://dns.alidns.com:853
