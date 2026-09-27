@@ -1,6 +1,6 @@
-#!date = 2026-09-26 08:14:22
+#!date = 2026-09-27 08:01:01
 # DNS：syslib
-# 数量：4264
+# 数量：4262
 
 [Host]
 *.bh3.com = server:syslib
@@ -150,7 +150,6 @@ tencent-cloud.com = server:syslib
 tencent-cloud.net = server:syslib
 *.anticheatexpert.com = server:syslib
 anticheatexpert.com = server:syslib
-tx-safety-video.acfun.cn = server:syslib
 *.coze.cn = server:syslib
 coze.cn = server:syslib
 *.okr.com = server:syslib
@@ -297,8 +296,6 @@ biliapi.com = server:syslib
 biliapi.net = server:syslib
 *.bilibili.cn = server:syslib
 bilibili.cn = server:syslib
-*.biliimg.com = server:syslib
-biliimg.com = server:syslib
 *.acgvideo.com = server:syslib
 acgvideo.com = server:syslib
 *.bilibili.com = server:syslib
