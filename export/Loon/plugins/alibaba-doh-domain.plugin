@@ -1,4 +1,4 @@
-#!date = 2026-10-01 08:53:56
+#!date = 2026-10-02 09:11:06
 # DNS：https://dns.alidns.com/dns-query
 # 数量：188
 
@@ -48,8 +48,8 @@ baidustatic.com = server:https://dns.alidns.com/dns-query
 baiducontent.com = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.178.net = server:https://dns.alidns.com/dns-query
-*.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
+*.178linux.com = server:https://dns.alidns.com/dns-query
 *.sina.com = server:https://dns.alidns.com/dns-query
 *.sina.net = server:https://dns.alidns.com/dns-query
 *.sinaapp.com = server:https://dns.alidns.com/dns-query
@@ -169,7 +169,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihua-tech.com = server:https://dns.alidns.com/dns-query
 *.zhihuangjin.com = server:https://dns.alidns.com/dns-query
 *.zhihudsp.com = server:https://dns.alidns.com/dns-query
-*.zhihuichuangyanshi.com = server:https://dns.alidns.com/dns-query
 *.zhihuiep.com = server:https://dns.alidns.com/dns-query
 *.zhihuifangdong.net = server:https://dns.alidns.com/dns-query
 *.zhihuihub.com = server:https://dns.alidns.com/dns-query
@@ -184,7 +183,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.zhihuiwater.com = server:https://dns.alidns.com/dns-query
 *.zhihuixiadan.com = server:https://dns.alidns.com/dns-query
 *.zhihuixl.com = server:https://dns.alidns.com/dns-query
-*.zhihuixuexipt.com = server:https://dns.alidns.com/dns-query
 *.zhihuiya.com = server:https://dns.alidns.com/dns-query
 *.zhihuiyunbo.com = server:https://dns.alidns.com/dns-query
 *.zhihuizhangyu.com = server:https://dns.alidns.com/dns-query
@@ -201,3 +199,5 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.sohuora.com = server:https://dns.alidns.com/dns-query
 *.sohurdc.com = server:https://dns.alidns.com/dns-query
 *.sohusce.com = server:https://dns.alidns.com/dns-query
+*.zhihuichuangyanshi.com = server:https://dns.alidns.com/dns-query
+*.zhihuixuexipt.com = server:https://dns.alidns.com/dns-query
