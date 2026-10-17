@@ -1,4 +1,4 @@
-#!date = 2026-10-17 08:02:08
+#!date = 2026-10-18 07:36:18
 # DNS：https://dns.alidns.com/dns-query
 # 数量：187
 
@@ -47,7 +47,6 @@ baidustatic.com = server:https://dns.alidns.com/dns-query
 *.baiducontent.com = server:https://dns.alidns.com/dns-query
 baiducontent.com = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
-*.178.net = server:https://dns.alidns.com/dns-query
 *.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
 *.sina.com = server:https://dns.alidns.com/dns-query
@@ -62,6 +61,7 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.0917888.com = server:https://dns.alidns.com/dns-query
 *.13726936178.com = server:https://dns.alidns.com/dns-query
 *.17178.com = server:https://dns.alidns.com/dns-query
+*.178.net = server:https://dns.alidns.com/dns-query
 *.178198.com = server:https://dns.alidns.com/dns-query
 *.178448.com = server:https://dns.alidns.com/dns-query
 *.178768.com = server:https://dns.alidns.com/dns-query
