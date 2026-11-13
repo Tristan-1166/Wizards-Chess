@@ -1,9 +1,8 @@
 #!name=DnsMap
-#!desc=2026-11-12 10:35:04
-# 规则集数量：6
+#!desc=2026-11-13 10:15:11
+# 规则集数量：5
 
 [Host]
-RULE-SET,https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/360-doh-domain.conf,server:https://doh.360.cn/dns-query
 RULE-SET,https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/alibaba-doh-domain.conf,server:https://dns.alidns.com/dns-query
 RULE-SET,https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/alibaba-quic.conf,server:quic://dns.alidns.com:853
 RULE-SET,https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/global-dns.conf,server:syslib
