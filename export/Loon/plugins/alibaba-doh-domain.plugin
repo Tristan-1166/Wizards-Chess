@@ -1,6 +1,6 @@
-#!date = 2026-11-13 10:15:11
+#!date = 2026-11-14 09:53:46
 # DNS：https://dns.alidns.com/dns-query
-# 数量：175
+# 数量：187
 
 [Host]
 *.weibo.com = server:https://dns.alidns.com/dns-query
@@ -8,6 +8,7 @@ weibo.com = server:https://dns.alidns.com/dns-query
 *.weibo.cn = server:https://dns.alidns.com/dns-query
 *.weibocdn.com = server:https://dns.alidns.com/dns-query
 *.sinaimg.com = server:https://dns.alidns.com/dns-query
+*.sina.com.cn = server:https://dns.alidns.com/dns-query
 *.sinajs.cn = server:https://dns.alidns.com/dns-query
 *.zhihu.com = server:https://dns.alidns.com/dns-query
 *.zhimg.com = server:https://dns.alidns.com/dns-query
@@ -24,6 +25,27 @@ weibo.com = server:https://dns.alidns.com/dns-query
 *.ithome.com = server:https://dns.alidns.com/dns-query
 *.sohu.com = server:https://dns.alidns.com/dns-query
 *.csdn.com = server:https://dns.alidns.com/dns-query
+*.cn = server:https://dns.alidns.com/dns-query
+*.baidu.cn = server:https://dns.alidns.com/dns-query
+baidu.cn = server:https://dns.alidns.com/dns-query
+*.baidu.com = server:https://dns.alidns.com/dns-query
+baidu.com = server:https://dns.alidns.com/dns-query
+*.bdimg.com = server:https://dns.alidns.com/dns-query
+bdimg.com = server:https://dns.alidns.com/dns-query
+*.bcebos.com = server:https://dns.alidns.com/dns-query
+bcebos.com = server:https://dns.alidns.com/dns-query
+*.baidubce.com = server:https://dns.alidns.com/dns-query
+baidubce.com = server:https://dns.alidns.com/dns-query
+*.baidubcr.com = server:https://dns.alidns.com/dns-query
+baidubcr.com = server:https://dns.alidns.com/dns-query
+*.baidupcs.com = server:https://dns.alidns.com/dns-query
+baidupcs.com = server:https://dns.alidns.com/dns-query
+*.bdstatic.com = server:https://dns.alidns.com/dns-query
+bdstatic.com = server:https://dns.alidns.com/dns-query
+*.baidustatic.com = server:https://dns.alidns.com/dns-query
+baidustatic.com = server:https://dns.alidns.com/dns-query
+*.baiducontent.com = server:https://dns.alidns.com/dns-query
+baiducontent.com = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
